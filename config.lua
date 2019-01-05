@@ -15,9 +15,9 @@ Config.EnableLicenses             = true -- enable if you're using esx_license
 Config.EnableHandcuffTimer        = true -- enable handcuff timer? will unrestrain player after the time ends
 Config.HandcuffTimer              = 10 * 60000 -- 10 mins
 
-Config.EnableJobBlip              = false -- enable blips for colleagues, requires esx_society
+Config.EnableJobBlip              = true -- enable blips for colleagues, requires esx_society
 
-Config.MaxInService               = -1
+Config.MaxInService               = 5 -- max 5 bac en service
 Config.Locale                     = 'fr'
 
 Config.PoliceStations = {
@@ -37,13 +37,12 @@ Config.PoliceStations = {
 			{ name = 'WEAPON_NIGHTSTICK',       price = 200 },
 			{ name = 'WEAPON_COMBATPISTOL',     price = 300 },
 			{ name = 'WEAPON_ASSAULTSMG',       price = 1250 },
-			{ name = 'WEAPON_ASSAULTRIFLE',     price = 1500 },
+			{ name = 'WEAPON_CARBINERIFLE',     price = 1500 },
 			{ name = 'WEAPON_PUMPSHOTGUN',      price = 600 },
 			{ name = 'WEAPON_STUNGUN',          price = 500 },
 			{ name = 'WEAPON_FLASHLIGHT',       price = 80 },
 			{ name = 'WEAPON_FIREEXTINGUISHER', price = 120 },
-			{ name = 'WEAPON_FLAREGUN',         price = 60 },
-			{ name = 'WEAPON_STICKYBOMB',       price = 250 },
+			{ name = 'WEAPON_FLAREGUN',         price = 60  },
 			{ name = 'GADGET_PARACHUTE',        price = 300 },
 		},
 
