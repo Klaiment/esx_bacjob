@@ -123,7 +123,7 @@ Locales['fr'] = {
   ['bac_stock'] = 'bac Stock',
   -- Misc
   ['remove_prop'] = 'appuyez sur ~INPUT_CONTEXT~ pour enlever l\'objet',
-  ['map_blip'] = 'Commissariat',
+  ['map_blip'] = 'BAC',
   ['unrestrained_timer'] = 'you feel your handcuffs slowly losing grip and fading away.',
   -- Notifications
   ['alert_bac'] = 'alerte bac',
