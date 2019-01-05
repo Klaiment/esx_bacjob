@@ -35,6 +35,9 @@ Les points pour prendre son service et pour prendre ses armes son au poste de po
 esx_bacjob is a modified version of esx_policejob (https://github.com/ESX-Org/esx_policejob)
 The database is in French.
 The points to take his service and to take his weapons at the police station last the LS custom.
+Alerte : 
+*[esx_outlawalertbac]
+https://github.com/SphinxReal/esx_outlawalertbac
 
 ###MODIFICATION BY SPHINX ! 
 (RP NAME : CLEMENT ESKO)
