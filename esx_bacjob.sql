@@ -17,11 +17,11 @@ INSERT INTO `jobs` (name, label) VALUES
 ;
 
 INSERT INTO `job_grades` (job_name, grade, name, label, salary, skin_male, skin_female) VALUES
-	('bac',0,'recruit','Recru',20,'{}','{}'),
-	('bac',1,'officer','Experimente',40,'{}','{}'),
-	('bac',2,'sergeant','Sergent',60,'{}','{}'),
-	('bac',3,'lieutenant','Lieutenant',85,'{}','{}'),
-	('bac',4,'boss','Chef BAC',100,'{}','{}')
+	('bac',0,'recruit','Recru',200,'{}','{}'),
+	('bac',1,'officer','Experimente',400,'{}','{}'),
+	('bac',2,'sergeant','Sergent',600,'{}','{}'),
+	('bac',3,'lieutenant','Lieutenant',850,'{}','{}'),
+	('bac',4,'boss','Chef BAC',1000,'{}','{}')
 ;
 
 CREATE TABLE `fine_types_bac` (
